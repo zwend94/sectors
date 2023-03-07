@@ -1,6 +1,8 @@
 pandas
 datetime
 yfinance
+matplotlib
+seaborn
 yahoo_fin
 plotly
 numpy
